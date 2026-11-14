@@ -8,8 +8,8 @@
 ---
 
 
-- 🏛️ Currently studying **Digital Software Development** at **Exeter College**
-- 📖 Self Learning: **Web Development w/ The Odin Project**
+- 🏛️ Currently studying: **Digital Software Development** at **Exeter College**
+- 📖 Self Learning: **Web Development** w/ **The Odin Project**
 - 📍 Based in: **Mid Devon, England**
 - ⚡ Fun fact: I completed an IRONMAN 70.3 Triathlon at 16
 - 📫 Reach me: [dylanxmoore0@gmail.com](mailto:dylanxmoore0@gmail.com)
