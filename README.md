@@ -1,7 +1,7 @@
 <h3 align="center"> Dylan Moore </h3>
 
 <p align="center">
-  <a href="https://www.dylanmoore.tech/">Website</a> •
+  <a href="https://www.dylanmoore.uk/">Website</a> •
   <a href="https://github.com/DylanM3">GitHub</a>
 </p>
 
