@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.dylanmoore.uk/">Website</a> •
-  <a href="https://github.com/DylanM3">GitHub</a>
+  <a href="https://github.com/dlanmoore">GitHub</a>
 </p>
 
 ---
